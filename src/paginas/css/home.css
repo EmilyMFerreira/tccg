@@ -1,0 +1,26 @@
+header{
+    color: #004AAD;
+   font-size: 3dvh;
+   font-style: normal;
+   font-weight: 2rem;
+   line-height: normal;
+   }
+   
+   .cont1{
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 780px;
+   }
+   
+   .cont2{
+    color: #000;
+    font-family: Graduate;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 730px;
+   }
