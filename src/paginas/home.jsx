@@ -6,7 +6,7 @@ function Home() {
     return (
     <>
         <header>
-        <h1>Bem-Vindo(a)</h1>
+        <h1>Bem-Vindo(a)!!</h1>
         </header>
 
         

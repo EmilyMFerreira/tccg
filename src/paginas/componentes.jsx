@@ -11,8 +11,8 @@ function Componentes() {
 </header>
 
 
-<div id="Componentes">
-    <h1>Componentes</h1>
+<div id="comp">
+    <h1>Materiais/Componentes</h1>
 
 <ul>
 <li>Kit de carrinho arduino</li>

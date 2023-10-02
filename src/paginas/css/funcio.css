@@ -4,6 +4,7 @@ header{
    font-style: normal;
    font-weight: 2rem;
    line-height: normal;
+   text-align: center;
    }
    
    .func1{
@@ -11,8 +12,10 @@ header{
     font-size: 1.5rem;
     font-style: normal;
     font-weight: 400;
+    font-family: Graduate;
     line-height: normal;
     width: 780px;
+    text-align: left;
    }
    
    .func2{
