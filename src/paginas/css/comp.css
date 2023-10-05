@@ -1,5 +1,6 @@
 header{
     color: #004AAD;
+    font-family: Graduate;
    font-size: 3rem;
    font-style: normal;
    font-weight: 2rem;
@@ -7,7 +8,7 @@ header{
    text-align: center;
    }
 
-   .comp{
+   .componentes{
     color: #004AAD;
     font-family: Graduate;
     font-size: 4rem;

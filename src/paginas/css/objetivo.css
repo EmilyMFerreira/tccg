@@ -1,10 +1,36 @@
-.obj-h1{
-color: #004AAD;
-font-family: Graduate;
-font-size: 4rem;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-width: 20.5625rem;
-height: 4.375rem;
+header{
+    color: #004AAD;
+   font-size: 1.5rem;
+   font-weight: 2rem;
+   text-align:left;
+}
+.obj{
+    color: #000;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    font-family: Graduate;
+    line-height: normal;
+    width: 780px;
+    text-align: left;
+    margin: 1rem;
+}
+
+.publico{
+    color: #004AAD;
+    font-size: 1.5rem;
+    font-weight: 2rem;
+    text-align:left;  
+}
+
+.conteudop{
+    color: #000;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    font-family: Graduate;
+    line-height: normal;
+    width: 780px;
+    text-align: left;
+    margin: 1rem;
 }
