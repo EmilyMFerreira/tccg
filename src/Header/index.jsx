@@ -15,8 +15,6 @@ function Header() {
 
         setAbrirFechar(true)
     }
-
-    
   
 
   return (
@@ -30,7 +28,7 @@ function Header() {
                 <div>
             
                     <button onClick={handleAbrirFecharMenu}>
-                        <X size={32} />
+                    <List size={32} />
                     </button>
                 </div>
                 <nav>
