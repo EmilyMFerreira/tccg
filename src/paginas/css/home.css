@@ -1,27 +1,26 @@
 header{
     color: #004AAD;
     font-family: Graduate;
-    font-size: 4rem;
-    font-style: normal;
+    font-size: 3rem;
     font-weight: 400;
-    line-height: normal;
     text-align: center;
    }
+
    
+
    .cont1{
     color: #000;
     font-family: Graduate;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 400;
     width: 50rem;
-    height: 15rem;
     margin: 2rem;
    }
    
    .cont2{
     color: #000;
     font-family: Graduate;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 400;
     width: 50rem;
     margin: 2rem;

@@ -20,12 +20,20 @@ function Funcionamento() {
     <p>
     E pensando no problema que vários escritórios tem em questão a movimentação de documentos e etc.
     Pensamos em uma forma de resolver esse problema.
-    O Guido é um robô móvel guiado por linhas, tendo a função de transportar materiais de forma eficiente em ambientes 
-    onde ele seja útil e possa ajudar na realização de atividades.
     </p>
     </div>
 
-<li>
+    <div className="func3">
+                <img src="funcionamento1" alt="funcio1" />
+                <p>
+                    O Guido é um robô móvel guiado por linhas, tendo a função de transportar materiais de forma eficiente em ambientes
+                    onde ele seja útil e possa ajudar na realização de atividades.
+                </p>
+
+            </div>
+
+
+                        <li>
                             <Link to={'/'}>Home</Link>
                         </li>
                         <li>

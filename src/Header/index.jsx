@@ -19,6 +19,7 @@ function Header() {
     <header>
         <div className="menu-mobile">
             <div className="botao-menu">
+                <p>Logo</p>
                 <button onClick={handleAbrirFecharMenu}>{abrirFechar == true ? <X size={32} /> : <List size={32} />}</button>
             </div>
 

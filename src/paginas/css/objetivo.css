@@ -7,10 +7,8 @@ header{
 .obj{
     color: #000;
     font-size: 1.5rem;
-    font-style: normal;
     font-weight: 400;
     font-family: Graduate;
-    line-height: normal;
     width: 780px;
     text-align: left;
     margin: 1rem;
@@ -26,10 +24,8 @@ header{
 .conteudop{
     color: #000;
     font-size: 1.5rem;
-    font-style: normal;
     font-weight: 400;
     font-family: Graduate;
-    line-height: normal;
     width: 780px;
     text-align: left;
     margin: 1rem;

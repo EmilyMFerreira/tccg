@@ -11,7 +11,6 @@ header{
     font-style: normal;
     font-weight: 400;
     font-family: Graduate;
-    line-height: normal;
     width: 780px;
     text-align: left;
     margin: 1rem;
@@ -21,10 +20,20 @@ header{
     color: #000;
     font-family: Graduate;
     font-size: 1.5rem;
-    font-style: normal;
     font-weight: 400;
-    line-height: normal;
     width: 730px;
     margin: 1rem;
+   }
+
+   .func3 {
+    color: #000;
+    font-family: Graduate;
+    font-size: 1.5rem;
+    font-weight: 400;
+    width: 40rem;  
+    font-size: 25px;
+    width: 50%;
+    margin: auto;
+    display: flex;
    }
 
