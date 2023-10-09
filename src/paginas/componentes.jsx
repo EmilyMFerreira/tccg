@@ -18,29 +18,46 @@ function Componentes() {
 
 
 
-<div id="componentes">
-    <h1>Materiais/Componentes</h1>
+<div id="material">
+    <h1>Materiais/Componentes:</h1>
+    <p>Para o desenvolvimento deste projeto utilizamos:</p>
+    <img src="src/imagens/componentes.png" alt="comps" />
+    </div>
 
-<p>
-<ul>
-<li>Kit de carrinho arduino</li>
-<li>1x arduino Uno + cabo USB</li>
-<li>2x Sensores de obstáculos infravermelho</li>
-</ul>
-</p>
 
+
+<div className="kit">
+    <p>Kit de carrinho arduino</p>
 </div>
 
+<div className="comp">
+ <p>
+    <ul>
+        <li>R$56,90</li>
+        <li>1x chassi de acrílico</li>
+        <li>2x motores com roda</li>
+        <li>1x adaptador de pilha</li>
+        <li>1x arduino + cabo usb</li>
+        <li>1x protoboard</li>
+        <li>1x ponte H dupla</li>
+        <li>20x jumper</li>
+    </ul>
+ </p>
+ </div>
+
+
+
 <div className="sensor">
-    <h2>Sensor Ultrassônico</h2>
+    <h2>Sensor de obstáculo reflexivo infravermelho</h2>
+     </div>
 
+
+<div className="contsensor">
     <p>
-    Ele funciona através de um sistema de reflexão que será aceso 
-    na placa indicando presença de um obstáculo ou objeto.
-    Os sensores ultrassônicos detectam qualquer cor, com a mesma distância. Mais vantajoso em relação aos sensores fotoelétricos por difusão que não são imunes as cores dos objetos detectados.
+    Um sensor de obstáculo reflexivo infravermelho é um dispositivo eletrônico que é usado para detectar a presença de objetos ou obstáculos com base na reflexão de luz infravermelha. Esses sensores são frequentemente utilizados em projetos de robótica, automação e sistemas de controle para evitar colisões ou para rastrear objetos.
     </p>
-
     </div>
+   
     
 
         </>

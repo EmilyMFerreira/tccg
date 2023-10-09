@@ -6,7 +6,7 @@ function Funcionamento() {
     <>
 
     <header>
-    <h2>Funcionamento</h2>
+    <h1>Funcionamento</h1>
     </header>
 
         <div className="func1">

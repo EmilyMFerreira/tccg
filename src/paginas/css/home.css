@@ -1,13 +1,16 @@
-header{
-    color: #004AAD;
+header h1{
+  color: #004AAD;
   font-family: Graduate;
   font-size: 4rem;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  text-align: center;
    }
 
-   
+ .img1{
+    align-items: flex-start;
+ }
 
    .cont1{
     color: #000;
