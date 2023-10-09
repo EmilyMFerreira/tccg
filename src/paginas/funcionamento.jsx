@@ -6,7 +6,7 @@ function Funcionamento() {
     <>
 
     <header>
-    <h1>Funcionamento</h1>
+    <h2>Funcionamento</h2>
     </header>
 
         <div className="func1">
@@ -31,20 +31,6 @@ function Funcionamento() {
                 </p>
 
             </div>
-
-
-                        <li>
-                            <Link to={'/'}>Home</Link>
-                        </li>
-                        <li>
-                            <Link to={'/componentes'}>Componentes</Link>
-                        </li>
-                        <li>
-                            <Link to={'/objetivo'}>Objetivo</Link>
-                        </li>
-                        <li>
-                            <Link to={'/bibliografia'}>Bibliografia</Link>
-                        </li>
 
     
     </>

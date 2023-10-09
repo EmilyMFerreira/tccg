@@ -13,8 +13,6 @@ function Home() {
 
 
             <div className="cont1">
-
-            <img src="guido" alt="imagem" />
          <p>Seja bem-vindo ao emocionante mundo da inovação tecnológica sobre rodas! Apresentamos a você nosso Carrinho controlado por arduino, uma criação que une a magia da robótica com a versatilidade da programação para ajudar no seu ambiente de trabalho.</p>
             </div>
 
@@ -26,22 +24,6 @@ function Home() {
                 </p>
             </div>
 
-        <div className="abafinal">
-                          
-                        <li>
-                            <Link to={'/funcionamento'}>Funcionamento</Link>
-                        </li>
-                        <li>
-                            <Link to={'/componentes'}>Componentes</Link>
-                        </li>
-                        <li>
-                            <Link to={'/objetivo'}>Objetivo</Link>
-                        </li>
-                        <li>
-                            <Link to={'/bibliografia'}>Bibliografia</Link>
-                        </li>
-
-                        </div>
 
         </main>
         </>

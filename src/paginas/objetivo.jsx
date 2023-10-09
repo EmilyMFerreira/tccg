@@ -32,22 +32,6 @@ function Objetivo() {
    </div>
 
 
-
-
-                        <li>
-                            <Link to={'/'}>Home</Link>
-                        </li>
-
-                         <li>
-                            <Link to={'/funcionamento'}>Funcionamento</Link>
-                        </li>
-                        <li>
-                            <Link to={'/componentes'}>Componentes</Link>
-                        </li>
-                        <li>
-                            <Link to={'/bibliografia'}>Bibliografia</Link>
-                        </li>
-
 </>
     )
 }

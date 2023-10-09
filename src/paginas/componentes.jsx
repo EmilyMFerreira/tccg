@@ -6,9 +6,16 @@ function Componentes() {
     return (
       <>
 
+
 <header>
     <h1>Nosso Produto:</h1>
 </header>
+
+
+<div className="compimg">
+    <img src="./src/imagens/funcionamento1-11.png" alt="" />
+</div>
+
 
 
 <div id="componentes">
@@ -34,19 +41,7 @@ function Componentes() {
     </p>
 
     </div>
-                         <li>
-                            <Link to={'/'}>Home</Link>
-                        </li>
-
-                         <li>
-                            <Link to={'/funcionamento'}>Funcionamento</Link>
-                        </li>
-                        <li>
-                            <Link to={'/objetivo'}>Objetivo</Link>
-                        </li>
-                        <li>
-                            <Link to={'/bibliografia'}>Bibliografia</Link>
-                        </li>
+    
 
         </>
      )

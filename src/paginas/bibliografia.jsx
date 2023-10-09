@@ -18,19 +18,7 @@ function Bibliografia() {
     </strong></a></li>
     </ul>
 
-                        <li>
-                            <Link to={'/'}>Home</Link>
-                        </li>
-                        <li>
-                            <Link to={'/funcionamento'}>Funcionamento</Link>
-                        </li>
-                        <li>
-                            <Link to={'/componentes'}>Componentes</Link>
-                        </li>
-                        <li>
-                            <Link to={'/objetivo'}>Objetivo</Link>
-                        </li>
-                  
+            
 
 
     </>

@@ -35,7 +35,7 @@ function Header() {
         </div>
 
         <div className="menu-desktop">
-            <h1>Nossas Páginas</h1>
+            <img src="src/imagens/guido.png" alt="guido" />
 
             <nav>
             <a href="/">Home</a>
