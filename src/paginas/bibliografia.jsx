@@ -5,9 +5,11 @@ function Bibliografia() {
 
   return (
     <>
-      <header>
+    
+    <header>
         <h1>Inspiração</h1>
         </header>
+       
 
 
     <div className="links">

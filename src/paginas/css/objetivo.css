@@ -3,6 +3,8 @@ header{
    font-size: 1.5rem;
    font-weight: 2rem;
    text-align:left;
+   color: #004AAD;
+font-family: Graduate;
 }
 .obj{
     color: #000;
@@ -10,15 +12,13 @@ header{
     font-weight: 400;
     font-family: Graduate;
     width: 780px;
-    text-align: left;
     margin: 1rem;
 }
 
-.publico{
+.pub h1{
     color: #004AAD;
     font-size: 1.5rem;
     font-weight: 2rem;
-    text-align:left;  
 }
 
 .conteudop{

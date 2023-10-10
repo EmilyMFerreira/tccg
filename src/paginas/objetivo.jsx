@@ -5,9 +5,9 @@ function Objetivo() {
     return (
     <>
 
-        <header>
-            <h1>Objetivo</h1>
-        </header>
+<header><h1>Objetivo</h1></header>
+ 
+        
 
 <div className="obj">
     <p>
@@ -19,9 +19,8 @@ function Objetivo() {
 
 
 
-    <div className="publico">
-    <h1>Público Alvo</h1>
-    </div>
+    <header><h1>Público Alvo</h1></header>
+    
 
 <div className="conteudop">
    <p>
