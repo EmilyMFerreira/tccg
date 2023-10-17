@@ -27,6 +27,9 @@ line-height: normal;
     width: 50%;
     margin: auto;
     display: block;
+    text-align: center;
+    display: block;
+  
 }
 
 .func2 {
@@ -40,6 +43,8 @@ line-height: normal;
     font-size: 25px;
     width: 50%;
     margin: auto;
+    display: block;
+    text-align: center;
     display: block;
 }
 
@@ -55,4 +60,5 @@ line-height: normal;
     width: 50%;
     margin: auto;
     display: flex;
+    
 }

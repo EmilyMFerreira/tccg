@@ -13,6 +13,7 @@
     padding-right: 2rem;
     transition: translate .3s;
     background: #004AAD;
+    position: absolute;
     
 }
 

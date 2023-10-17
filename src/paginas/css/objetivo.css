@@ -8,11 +8,17 @@ font-family: Graduate;
 }
 .obj{
     color: #000;
-    font-size: 1.5rem;
-    font-weight: 400;
     font-family: Graduate;
-    width: 780px;
-    margin: 1rem;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 40rem;  
+    font-size: 25px;
+    width: 50%;
+    margin: auto;
+    display: block;
+  
 }
 
 .pub h1{
@@ -23,10 +29,14 @@ font-family: Graduate;
 
 .conteudop{
     color: #000;
-    font-size: 1.5rem;
-    font-weight: 400;
     font-family: Graduate;
-    width: 780px;
-    text-align: left;
-    margin: 1rem;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 40rem;  
+    font-size: 25px;
+    width: 50%;
+    margin: auto;
+    display: block;
 }

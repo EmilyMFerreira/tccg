@@ -10,6 +10,7 @@ function Funcionamento() {
     </header>
 
         <div className="func1">
+        <img src="src/imagens/funcionamento1-11.png" alt="funcio1" />
       <p>
     O Arduino é uma plataforma amplamente utilizada na prototipagem eletrônica graças à sua facilidade de programação e implantação. Hoje faremos uso dessas características para 
     desenvolver um robô seguidor de linha e entender na prática como essas máquinas amplamente utilizadas na indústria funcionam.
@@ -24,7 +25,6 @@ function Funcionamento() {
     </div>
 
     <div className="func3">
-                <img src="src/imagens/funcionamento1-11.png" alt="funcio1" />
                 <p>
                     O Guido é um robô móvel guiado por linhas, tendo a função de transportar materiais de forma eficiente em ambientes
                     onde ele seja útil e possa ajudar na realização de atividades.
