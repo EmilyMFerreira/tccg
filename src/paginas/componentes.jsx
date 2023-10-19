@@ -18,9 +18,11 @@ function Componentes() {
 
 <div id="material">
     <h1>Materiais/Componentes:</h1>
-    <p>Para o desenvolvimento deste projeto utilizamos:</p>
-    <img src="src/imagens/componentes.png" alt="comps" />
     </div>
+
+<div className="cpimg">
+<img src="src/imagens/componentes.png" alt="comps" />
+</div>
 
 
 

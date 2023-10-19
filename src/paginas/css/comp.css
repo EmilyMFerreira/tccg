@@ -16,12 +16,6 @@ header{
     text-align: center;
    }
 
-   .material-p{
-    color: #004AAD;
- font-family: Graduate;
- font-size: 2.25rem;
- font-weight: 400;
-   }
 
 .kit{
     color: #004AAD;
@@ -57,4 +51,18 @@ header{
     
     
 }
+
+.compimg{
+  align-items: flex-start;
+    text-align: center;
+    display: block;
+}
+ 
+
+.cpimg{
+  align-items: flex-start;
+  text-align: center;
+  display: block;
+}
+
    
