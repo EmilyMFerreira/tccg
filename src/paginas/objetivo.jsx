@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import './css/Objetivo.css'
+import './css/objetivo.css'
 
 function Objetivo() {
     return (
