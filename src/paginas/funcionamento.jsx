@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
 import './css/funcio.css'
 
+import funcionamento from "../imagens/funcionamento1-11.png"
+
 function Funcionamento() {
     return (
     <>
@@ -10,7 +12,7 @@ function Funcionamento() {
     </header>
 
         <div className="func1">
-        <img src="src/imagens/funcionamento1-11.png" alt="funcio1" />
+        <img src={funcionamento} alt="funcio1" />
       <p>
     O Arduino é uma plataforma amplamente utilizada na prototipagem eletrônica graças à sua facilidade de programação e implantação. Hoje faremos uso dessas características para 
     desenvolver um robô seguidor de linha e entender na prática como essas máquinas amplamente utilizadas na indústria funcionam.
