@@ -3,6 +3,8 @@ import "./index.css"
 
 import { List, X } from "@phosphor-icons/react"
 
+import { Link } from "react-router-dom"
+
 function Header() {
     const [abrirFechar, setAbrirFechar] = useState(false)
 
@@ -24,7 +26,7 @@ function Header() {
 
             <div className={`menu ${abrirFechar == true ? "" : "close"}`}>
                 <nav>
-                    <a href="/">Home</a>
+                    <Link href="/">Home</Link>
                     <a href="objetivo">Objetivo</a>
                     <a href="funcionamento">Funcionamento</a>
                     <a href="componentes">Componentes</a>
