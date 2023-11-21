@@ -40,3 +40,8 @@ font-family: Graduate;
     margin: auto;
     display: block;
 }
+
+.imgobj{
+ box-sizing: border-box;
+
+}
