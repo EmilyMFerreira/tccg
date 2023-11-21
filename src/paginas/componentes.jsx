@@ -22,11 +22,6 @@ function Componentes() {
     <h1>Materiais/Componentes:</h1>
     </div>
 
-
-<div className="kit">
-    <p>Kit de carrinho arduino</p>
-</div>
-
 <div className="comp">
  <p>
     <ul>
