@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
 import "./css/comp.css"
 
+import componentes from "../imagens/src/imagens/componentes.png"
+
 
 function Componentes() {
     return (
@@ -11,7 +13,7 @@ function Componentes() {
 
 
 <div className="compimg">
-    <img src="./src/imagens/funcionamento1-11.png" alt="" />
+    <img src={componentes} alt="" />
 </div>
 
 

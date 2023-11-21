@@ -2,6 +2,8 @@
 import { Link } from 'react-router-dom'
 import "./css/home.css"
 
+import home from "../imagens/home.png"
+
 function Home() {
     return (
     <>
@@ -11,7 +13,7 @@ function Home() {
 
         <main>
         <div className="img1">
-        <img src="src/imagens/home.png" alt="" />
+        <img src= {home} alt="" />
         </div>
 
             <div className="cont1">

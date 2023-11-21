@@ -1,12 +1,17 @@
 import { Link } from 'react-router-dom'
 import './css/objetivo.css'
 
+import objetivo from "../imagens/objetivo.png"
+
 function Objetivo() {
     return (
     <>
 
 <header><h1>Objetivo</h1></header>
- 
+
+<div className="imgobj">
+<img src= {objetivo} alt="" />
+</div>
         
 
 <div className="obj">
