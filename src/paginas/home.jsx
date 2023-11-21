@@ -2,7 +2,7 @@
 import { Link } from 'react-router-dom'
 import "./css/home.css"
 
-import home from "../imagens/home.png"
+import homeImg from "../imagens/home.png"
 
 function Home() {
     return (
@@ -13,7 +13,7 @@ function Home() {
 
         <main>
         <div className="img1">
-        <img src={home} alt="imagem home" />
+        <img src={homeImg} alt="imagem home" />
         </div>
 
             <div className="home1">
