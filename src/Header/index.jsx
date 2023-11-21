@@ -39,11 +39,11 @@ function Header() {
             <img src="src/imagens/GUIDO 1.png" alt="guido" />
 
             <nav>
-            <a href="/">Home</a>
-             <a href="objetivo">Objetivo</a>
-             <a href="funcionamento">Funcionamento</a>
-             <a href="componentes">Componentes</a>
-             <a href="bibliografia">Bibliografia</a>
+            <Link href="/">Home</Link>
+             <Link href="objetivo">Objetivo</Link>
+             <Link href="funcionamento">Funcionamento</Link>
+             <Link href="componentes">Componentes</Link>
+             <Link href="bibliografia">Bibliografia</Link>
             </nav>
         </div>
     </header>
