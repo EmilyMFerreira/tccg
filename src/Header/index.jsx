@@ -2,7 +2,7 @@ import { useState } from "react"
 import "./index.css"
 
 import { List, X } from "@phosphor-icons/react"
-
+import index from "../imagens/GUIDO 1.png"
 import { Link } from "react-router-dom"
 
 function Header() {
@@ -36,7 +36,7 @@ function Header() {
         </div>
 
         <div className="menu-desktop">
-            <img src="src/imagens/GUIDO 1.png" alt="guido" />
+            <img src= {index} alt="guido" />
 
             <nav>
             <Link to="/">Home</Link>
