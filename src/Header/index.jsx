@@ -40,10 +40,10 @@ function Header() {
 
             <nav>
             <Link to="/">Home</Link>
-             <Link to="objetivo">Objetivo</Link>
-             <Link to="funcionamento">Funcionamento</Link>
-             <Link to="componentes">Componentes</Link>
-             <Link to="bibliografia">Bibliografia</Link>
+             <Link to="/objetivo">Objetivo</Link>
+             <Link to="/funcionamento">Funcionamento</Link>
+             <Link to="/componentes">Componentes</Link>
+             <Link to="/bibliografia">Bibliografia</Link>
             </nav>
         </div>
     </header>
