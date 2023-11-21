@@ -8,9 +8,9 @@ h1{
     display: block;
  }
 
-   .cont1{
+   .home1{
     color: #000;
-    font-family: Graduate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
     font-style: normal;
     font-weight: 400;
@@ -23,10 +23,10 @@ h1{
   
    }
    
-   .cont2{
+   .home2{
     color: #000;
-    font-family: Graduate;
     font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: normal;
     font-weight: 400;
     line-height: normal;

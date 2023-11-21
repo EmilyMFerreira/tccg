@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import "./css/comp.css"
 
-import componentes from "../imagens/src/imagens/componentes.png"
+import componentes from "../imagens/componentes.png"
 
 
 function Componentes() {
