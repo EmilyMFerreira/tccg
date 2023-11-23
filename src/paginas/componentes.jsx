@@ -8,9 +8,6 @@ function Componentes() {
     return (
       <>
 
-<header><h1>Nosso Produto:</h1></header>
-    
-
 
 <div className="compimg">
     <img src={componentes} alt="" />
