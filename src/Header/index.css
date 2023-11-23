@@ -23,6 +23,7 @@
     flex-direction: column;
     font-size: 40px;
      padding: 1rem;
+     background: #004AAD;
 }   
 
 .menu.close {
@@ -38,7 +39,8 @@
     text-decoration: none;
     font-size: 1.1rem;
     color: white;
-    height: 1.5rem;
+    height: 2rem;
+    background: #004AAD;
     
 }
 

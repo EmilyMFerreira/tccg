@@ -9,15 +9,15 @@ function Componentes() {
       <>
 
 
+<div className="titulo">
+   <h1> Componentes</h1>
+</div>
+
+<br />
 <div className="compimg">
     <img src={componentes} alt="" />
 </div>
 
-
-
-<div id="material">
-    <h1>Materiais/Componentes:</h1>
-    </div>
     <br />
 
 <div className="comp">

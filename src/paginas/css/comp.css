@@ -1,19 +1,9 @@
-.material h1{
-    color: #004AAD;
-   font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
-   }
-
-
-.kit{
-    color: #004AAD;
+.titulo{
+  color: #004AAD;
   text-align: center;
   font-family: Graduate;
   font-size: 2rem;
-  font-weight: 400;
-}
+   }
 
 
    .comp{
@@ -25,11 +15,11 @@
     
    }
 
-   .sensor{
+   .sensor h2{
   color: #004AAD;
   text-align: center;
   font-family: Graduate;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 400;
 
    }
