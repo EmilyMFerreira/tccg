@@ -10,9 +10,15 @@ function Funcionamento() {
         <header>
     <h1>Funcionamento</h1>
     </header>
+    <br />
 
+
+    <div className="imgf">
+    <img src={funcionamento} alt="" />
+    </div>
+        
+    
         <div className="func1">
-        <img src={funcionamento} alt="" />
       <p>
     O Arduino é uma plataforma amplamente utilizada na prototipagem eletrônica graças à sua facilidade de programação e implantação. Hoje faremos uso dessas características para 
     desenvolver um robô seguidor de linha e entender na prática como essas máquinas amplamente utilizadas na indústria funcionam.

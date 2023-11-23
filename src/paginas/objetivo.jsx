@@ -23,9 +23,11 @@ function Objetivo() {
     </div>
 
 
+        <br />
 
     <header><h1>Público Alvo</h1></header>
     
+    <br />
 
 <div className="conteudop">
    <p>
@@ -33,6 +35,7 @@ function Objetivo() {
     Mas é nosso produto pode se adaptar aos interessados de outras áreas.
    </p>
    
+   <br />
    </div>
 
 

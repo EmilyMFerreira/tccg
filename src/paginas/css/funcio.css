@@ -9,23 +9,26 @@ line-height: normal;
  justify-content: center;   
 }
 
-    h3{
-        width: 30%;
-        margin: auto;
-        display: block;
-    }
+  
+
+.imgf{
+    width: 70%;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
 
 .func1 {
     color: #000;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
+    font-style: normal;
     font-weight: 400;
+    line-height: normal;
     width: 40rem;  
     font-size: 25px;
     width: 70%;
     margin: auto;
-    display: block;
-    text-align: center;
     display: block;
   
 }
@@ -34,13 +37,13 @@ line-height: normal;
     color: #000;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
+    font-style: normal;
     font-weight: 400;
+    line-height: normal;
     width: 40rem;  
     font-size: 25px;
     width: 70%;
     margin: auto;
-    display: block;
-    text-align: center;
     display: block;
 }
 

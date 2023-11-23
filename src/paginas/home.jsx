@@ -29,6 +29,7 @@ function Home() {
                  Você conhecerá mais sobre navegando em nosso site.
                 </p>
             </div>
+            <br />
 
 
         </main>

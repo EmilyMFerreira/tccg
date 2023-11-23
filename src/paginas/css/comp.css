@@ -31,6 +31,7 @@ header{
     color: #000;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5rem;
+    justify-content: center;
     
    }
 
@@ -48,6 +49,8 @@ header{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5rem;
     text-align: center;
+    width: 70%;
+    margin: auto;
     
     
 }

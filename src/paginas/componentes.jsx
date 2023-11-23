@@ -21,11 +21,12 @@ function Componentes() {
 <div id="material">
     <h1>Materiais/Componentes:</h1>
     </div>
+    <br />
 
 <div className="comp">
  <p>
     <ul>
-        <li>R$56,90</li>
+       <strong> <li>Kit Arduino Robótica R$ 259,90 </li></strong>
         <li>1x chassi de acrílico</li>
         <li>2x motores com roda</li>
         <li>1x adaptador de pilha</li>
@@ -37,17 +38,20 @@ function Componentes() {
  </p>
  </div>
 
+<br />
 
 
 <div className="sensor">
-    <h2>Sensor de obstáculo reflexivo infravermelho</h2>
+    <h2>Sensor reflexivo infravermelho</h2>
      </div>
 
+        <br />
 
 <div className="contsensor">
     <p>
     Um sensor de obstáculo reflexivo infravermelho é um dispositivo eletrônico que é usado para detectar a presença de objetos ou obstáculos com base na reflexão de luz infravermelha. Esses sensores são frequentemente utilizados em projetos de robótica, automação e sistemas de controle para evitar colisões ou para rastrear objetos.
     </p>
+    <br />
     </div>
    
     
