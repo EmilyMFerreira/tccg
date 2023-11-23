@@ -39,12 +39,14 @@
     font-size: 1.1rem;
     color: white;
     height: 1.5rem;
+    
 }
 
 
 @media(min-width: 900px) {
     .menu-mobile {
         display: none;
+        background: #004AAD;
     }
 
     .menu-desktop {
