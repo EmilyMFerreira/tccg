@@ -25,12 +25,18 @@
    }
 
 .contsensor{
-    color: #000;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.5rem;
-    text-align: center;
-    width: 70%;
-    margin: auto;
+  color: #000;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 40rem;  
+  font-size: 25px;
+  width: 70%;
+  margin: auto;
+  display: block;
+
     
     
 }
