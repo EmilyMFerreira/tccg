@@ -1,33 +1,32 @@
 header{
-    color: #004AAD;
-   font-size: 1.5rem;
-   font-weight: 2rem;
-   text-align:left;
-   color: #004AAD;
-font-family: Graduate;
-}
-.obj{
-    color: #000;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 2rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    width: 40rem;  
-    font-size: 25px;
-    width: 70%;
-    margin: auto;
-    display: block;
-  
-}
-
-.pub h1{
-    color: #004AAD;
     font-size: 1.5rem;
     font-weight: 2rem;
-}
+    text-align: center;
+    color: #004AAD;
+    font-family: Graduate;
+ }
+ .obj{
+     color: #000;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 2rem;
+     font-style: normal;
+     font-weight: 400;
+     line-height: normal;
+     width: 40rem;  
+     font-size: 25px;
+     width: 70%;
+     margin: auto;
+     display: block;
+   
+ }
+ 
+ .pub h1{
+     color: #004AAD;
+     font-size: 1.5rem;
+     font-weight: 2rem;
+ }
 
-.conteudop{
+ .conteudop{
     color: #000;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
@@ -41,7 +40,4 @@ font-family: Graduate;
     display: block;
 }
 
-.imgobj{
- box-sizing: border-box;
 
-}
