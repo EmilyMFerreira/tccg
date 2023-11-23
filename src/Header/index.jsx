@@ -20,9 +20,12 @@ function Header() {
   return (
     <header>
         <div className="menu-mobile">
+        <img src= {index} alt="guido" />
             <div className="botao-menu">
                 <button onClick={handleAbrirFecharMenu}>{abrirFechar == true ? <X size={32} /> : <List size={32} />}</button>
             </div>
+
+
 
             <div className={`menu ${abrirFechar == true ? "" : "close"}`}>
                 <nav>

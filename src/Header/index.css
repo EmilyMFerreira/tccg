@@ -1,14 +1,29 @@
 .menu-mobile{
     background: #004AAD;
+    align-items: center;
+    height: 6rem;
+    
+    
+}
+
+.menu-mobile img{
+    margin-top: auto;
+    display:inline-block;
+    position:relative;
+
 }
 
 
 .botao-menu {
-    border: 2px solid #ffffff;
     height: 4rem;
     padding-inline: 2rem;
     display: flex;
     align-items: center;
+    position:absolute;
+    margin-left: 3rem;
+    -webkit-transform:translate3d(-50%, 100%, 0);
+    -moz-transform:translate3d(-50%, 100%, 0);
+    transform:translate3d(-50%, -130%, 0);
 }
 
 .menu {
