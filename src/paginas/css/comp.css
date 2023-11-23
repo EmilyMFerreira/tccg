@@ -1,7 +1,7 @@
 header{
     color: #004AAD;
   font-family: Graduate;
-  font-size: 4rem;
+  font-size: 2rem;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -21,7 +21,7 @@ header{
     color: #004AAD;
   text-align: center;
   font-family: Graduate;
-  font-size: 2.3125rem;
+  font-size: 2rem;
   font-weight: 400;
 }
 
@@ -38,13 +38,12 @@ header{
   color: #004AAD;
   text-align: center;
   font-family: Graduate;
-  font-size: 2.1875rem;
+  font-size: 2rem;
   font-weight: 400;
 
    }
 
 .contsensor{
-    text-align: center;
     color: #000;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5rem;
